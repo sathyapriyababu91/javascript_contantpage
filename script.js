@@ -75,7 +75,7 @@ async function getUsers(){
         <div class="card-footer border-top d-flex justify-content-between align-items-center py-2">
         <span class="badge bg-light text-muted border">ID #${user.id}</span>
         <button data-bs-toggle="modal" data-bs-target="#userModal" 
-        class="btn btn-primary btn-sm rounded-pill">View</button>
+        class="btn btn-success btn-sm rounded-pill">View</button>
     </div>
 
 </div>
